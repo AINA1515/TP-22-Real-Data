@@ -5,7 +5,7 @@ function dbconnect()
     $bdd_name = "employees";
     $mdp = "";
     $user = "root";
-    $host = "localhost";
+    $host = "localhosts";
     
     // static $connect = null;
     // $bdd_name = "db_s2_ETU003893";
