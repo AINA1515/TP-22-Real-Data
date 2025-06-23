@@ -6,7 +6,7 @@ function dbconnect()
     $mdp = "";
     $user = "root";
     $host = "localhost";
-    s
+    
     // static $connect = null;
     // $bdd_name = "db_s2_ETU003893";
     // $mdp = "sriNeQfc";
